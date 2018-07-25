@@ -43,11 +43,11 @@ The green arrows designate “more info” links leading to advanced sections ab
 .. toctree::
    :hidden:
 
+   Product Documents <product-documents/index>
    Get Started <get-started/index>
    API Reference <api-reference/index>
-   M5Stack-awesome <m5stack-awesome/index>
    M5Stack-FAQ <m5stack-faq/index>
-   Product Documents <product-documents/index>
+   M5Stack-awesome <m5stack-awesome/index>
    Copyrights <COPYRIGHT>
    About <about>
    [语言/Languages] <languages>
