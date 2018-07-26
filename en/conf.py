@@ -50,6 +50,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_static_path = ['_static/M5Stack_MicroPython_UserGuidePictures']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -105,3 +106,28 @@ man_pages = [
     (master_doc, 'm5stack', u'M5Stack Documentation',
      [author], 1)
 ]
+
+# -- Options for Texinfo output ----------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+    (master_doc, 'M5Stack', u'M5Stack Documentation',
+     author, 'M5Stack', 'One line description of project.',
+     'Miscellaneous'),
+]
+
+# -- AutoStructify Setting ----------------------------------------------
+
+# At top on conf.py (with other import statements)
+import recommonmark
+from recommonmark.transform import AutoStructify
+
+# At the bottom of conf.py
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)
