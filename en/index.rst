@@ -49,6 +49,7 @@ The green arrows designate “more info” links leading to advanced sections ab
    M5Stack-FAQ <m5stack-faq/index>
    M5Stack-awesome <m5stack-awesome/index>
    Copyrights <COPYRIGHT>
+   Resources <resources>
    About <about>
    [语言/Languages] <languages>
    

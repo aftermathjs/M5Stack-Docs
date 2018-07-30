@@ -18,15 +18,20 @@ Now, the M5Cloud firmware I downloaded named
 +--------------+--------------+--------------+
 | |windows|    | |linux|      | |macos|      |
 +--------------+--------------+--------------+
-| `Windows`_   | `Linux`_     | `Mac OS`_    |
+| Windows_     |  Linux_      |  `Mac OS`_   |
 +--------------+--------------+--------------+
 
-.. |windows| image:: ../_static/windows-logo.png
+.. |windows| image:: ../../_static/windows-logo.png
 
-.. |Linux| image:: ../_static/linux-logo.png
+.. _Windows: ../../html/index.html
+
+.. |Linux| image:: ../../_static/linux-logo.png
+
+.. _Linux: ../../html/index.html
     
-.. |MacOS| image:: ../_static/macos-logo.png
+.. |MacOS| image:: ../../_static/macos-logo.png
 
+.. _`Mac OS`: ../../html/index.html
 
 **Windows**
 
@@ -36,7 +41,7 @@ apply by Espressif, choose ``ESP32 DownloadTool`` option and execute
 three steps ( *choose firmware file, your serial port, erase and program
 flash* ) as shown below
 
-.. image:: ../_static/M5Stack_MicroPython_UserGuidePictures/windows_download_firmware.png
+.. image:: ../../_static/M5Stack_MicroPython_UserGuidePictures/windows_download_firmware.png
 
 **MacOS/Linux**
 
@@ -76,7 +81,7 @@ Connect Wi-Fi
 Mobile Phone or PC connect to M5Stack AP(like ``M5Stack-a67c``), and
 then open brower to login 192.168.4.1 setting your LAN SSID and Password
 
-.. figure:: ../_static/M5Stack_MicroPython_UserGuidePictures/m5stack_connet_wifi.png
+.. figure:: ../../_static/M5Stack_MicroPython_UserGuidePictures/m5stack_connet_wifi.png
     :align: center  
     :alt: m5stack_connet_wifi
     :figclass: align-center
@@ -95,7 +100,7 @@ board to your account*
 *3. Input the Check Code for the M5Stack screen display，Check Code is
 random, after 60s will refresh*
 
-.. figure:: ../_static/M5Stack_MicroPython_UserGuidePictures/WebIDE_check_code.png
+.. figure:: ../../_static/M5Stack_MicroPython_UserGuidePictures/WebIDE_check_code.png
    :align: center  
    :alt: image
 
@@ -104,7 +109,7 @@ Coding MicroPython
 
 *1. create a new python project*
 
-.. figure:: ../_static/M5Stack_MicroPython_UserGuidePictures/create_a_new_project.png
+.. figure:: ../../_static/M5Stack_MicroPython_UserGuidePictures/create_a_new_project.png
    :align: center  
    :alt: image
 
@@ -123,7 +128,7 @@ copy below code to ``main.py`` file and press ``Upload & Run``
 
     lcd.print("Hello World!")
 
-.. figure:: ../_static/M5Stack_MicroPython_UserGuidePictures/display_hello_world.png
+.. figure:: ../../_static/M5Stack_MicroPython_UserGuidePictures/display_hello_world.png
    :align: center  
    :alt: image
 

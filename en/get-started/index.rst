@@ -52,4 +52,7 @@ Related Documents
 
     add-idf_path-to-profile
     establish-serial-connection
+    IDF Monitor<idf-monitor.rst>
+    Build and Flash with Make<make-project.rst>
+    
 

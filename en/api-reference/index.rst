@@ -7,5 +7,7 @@ API Reference
 
    Mesh <mesh/index>        
    Peripherals <peripherals/index>
+   ErrorCodes <error-codes.rst>
+   Kconfig <kconfig.rst>
 
 
