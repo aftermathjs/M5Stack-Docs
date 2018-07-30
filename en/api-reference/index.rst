@@ -3,11 +3,13 @@ API Reference
 *************
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   Mesh <mesh/index>        
-   Peripherals <peripherals/index>
-   ErrorCodes <error-codes.rst>
-   Kconfig <kconfig.rst>
+    Mesh <mesh/index>        
+    Button <button/index>
+    LCD <lcd/index>
+    ErrorCodes <error-codes.rst>
+    Kconfig <kconfig.rst>
+    
 
 
