@@ -4,28 +4,36 @@
    contain the root `toctree` directive.
 
 M5Stack's Documents
-=========================
+=============================
+
+Welcom to M5Stack Documents!
 
 The documentation has different language versions (`en:English`, `zh_CN:中文版`, `How to switch between languages? <languages>`). However, please refer to the English version if there is any discrepancy.
 
 The green arrows designate “more info” links leading to advanced sections about the described task.
 
-==================  ======================  ==================
-|Get Started|_      |API Reference|_        |M5Stack-awesome|_
-------------------  ----------------------  ------------------
-`Get Started`_      `API Reference`_        `M5Stack-awesome`_
-------------------  ----------------------  ------------------
-|M5Stack-FAQ|_       |Product Documents|_      |Contribute|_
-------------------  ----------------------  ------------------
-`M5Stack-FAQ`_       `Product Documents`_      `Contribute`_
-==================  ======================  ==================
+======================  ======================  ======================
+|Product Documents|_     |Get Started|_           |API Reference|_
+----------------------  ----------------------  ----------------------
+`Product Documents`_     `Get Started`_           `API Reference`_
+----------------------  ----------------------  ----------------------
+|M5Stack Forum|_         |M5Stack-awesome|_       |M5Stack-FAQ|_    
+----------------------  ----------------------  ----------------------
+`M5Stack Forum`_         `M5Stack-awesome`_       `M5Stack-FAQ`_  
+======================  ======================  ======================
 
+
+.. |Product Documents| image:: ../_static/get-started.gif
+.. _Product Documents: get-started/index.html
 
 .. |Get Started| image:: ../_static/get-started.gif
-.. _Get Started: get-started/index.html
+.. _Get Started: product-documents/index.html
 
 .. |API Reference| image:: ../_static/api-reference.gif
 .. _API Reference: api-reference/index.html
+
+.. |M5Stack Forum| image:: ../_static/contribute.gif
+.. _M5Stack Forum: contribute/index.html
 
 .. |M5Stack-awesome| image:: ../_static/m5stack-awesome.gif
 .. _M5Stack-awesome: m5stack-awesome/index.html
@@ -33,11 +41,7 @@ The green arrows designate “more info” links leading to advanced sections ab
 .. |M5Stack-FAQ| image:: ../_static/m5stack-faq.gif
 .. _M5Stack-FAQ: m5stack-faq/index.html
 
-.. |Contribute| image:: ../_static/contribute.gif
-.. _Contribute: contribute/index.html
 
-.. |Product Documents| image:: ../_static/get-started.gif
-.. _Product Documents: product-documents/index.html
 
 
 .. toctree::
@@ -49,7 +53,6 @@ The green arrows designate “more info” links leading to advanced sections ab
    M5Stack-FAQ <m5stack-faq/index>
    M5Stack-awesome <m5stack-awesome/index>
    Copyrights <COPYRIGHT>
-   Resources <resources>
    About <about>
    [语言/Languages] <languages>
    

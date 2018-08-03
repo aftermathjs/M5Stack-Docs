@@ -32,4 +32,8 @@ It is also possible to read the internal hall effect sensor via ADC1 by calling 
 
 There is another specific function :cpp:func:`adc2_vref_to_gpio` used to route internal reference voltage to a GPIO pin. It comes handy to calibrate ADC reading and this is discussed in section :ref:`adc-api-adc-calibration`.
 
+Application Examples
+---------------------
 
+API Reference
+--------------
