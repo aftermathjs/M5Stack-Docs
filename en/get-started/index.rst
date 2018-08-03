@@ -46,22 +46,22 @@ If you have one of ESP32 development boards listed below, click on provided link
 ============================  ============================  ============================
 
 
-.. |Core Arduino| image:: ../../_static/m5-arduino.png
+.. |Core Arduino| image:: ../../_static/pics/m5-arduino.jpg
 .. _Core Arduino: get-started-M5StackCore-Arduino.html
 
-.. |Core Micropython| image:: ../../_static/m5-arduino.png
+.. |Core Micropython| image:: ../../_static/pics/m5-micropython.jpg
 .. _Core Micropython: get-started-M5StackCore-Micropython.html
 
-.. |M5GO| image:: ../../_static/m5-arduino.png
+.. |M5GO| image:: ../../_static/pics/M5GO.jpg
 .. _M5GO: index.html
 
-.. |ESP32CAM| image::  ../../_static/m5-arduino.png
+.. |ESP32CAM| image::  ../../_static/pics/ESP32CAM.jpg
 .. _ESP32CAM: index.html
 
-.. |M5Stack STEPMOTOR Module| image::  ../../_static/m5-arduino.png
+.. |M5Stack STEPMOTOR Module| image::  ../../_static/pics/m5-stepmotor.jpg
 .. _M5Stack STEPMOTOR Module: index.html
 
-.. |M5Stand| image::  ../../_static/m5-arduino.png
+.. |M5Stand| image::  ../../_static/pics/m5stand.jpg
 .. _M5Stand: index.html
 
 

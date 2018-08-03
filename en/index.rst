@@ -23,22 +23,23 @@ The green arrows designate “more info” links leading to advanced sections ab
 ======================  ======================  ======================
 
 
-.. |Product Documents| image:: ../_static/get-started.gif
-.. _Product Documents: get-started/index.html
+.. |Product Documents| image:: ../_static/pics/product-documents.jpg
+.. _Product Documents: product-documents/index.html
 
-.. |Get Started| image:: ../_static/get-started.gif
-.. _Get Started: product-documents/index.html
+.. |Get Started| image:: ../_static/pics/get-started.jpg
+.. _Get Started: get-started/index.html
 
-.. |API Reference| image:: ../_static/api-reference.gif
+
+.. |API Reference| image:: ../_static/pics/m5-api-reference.jpg
 .. _API Reference: api-reference/index.html
 
-.. |M5Stack Forum| image:: ../_static/contribute.gif
-.. _M5Stack Forum: contribute/index.html
+.. |M5Stack Forum| image:: ../_static/pics/m5stack-forum.jpg
+.. _M5Stack Forum: index.html
 
-.. |M5Stack-awesome| image:: ../_static/m5stack-awesome.gif
+.. |M5Stack-awesome| image:: ../_static/pics/m5-awesome.jpg
 .. _M5Stack-awesome: m5stack-awesome/index.html
 
-.. |M5Stack-FAQ| image:: ../_static/m5stack-faq.gif
+.. |M5Stack-FAQ| image:: ../_static/pics/FAQ.jpg
 .. _M5Stack-FAQ: m5stack-faq/index.html
 
 
